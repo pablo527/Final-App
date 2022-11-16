@@ -1,0 +1,51 @@
+ {
+     "categories": [
+     {
+      "categorie": "Whisky",
+      "img":
+          "https://i.ibb.co/QK0r1VY/1.png"
+    },
+    {
+      "categorie": "Vino",
+      "img": "https://i.ibb.co/k5Fzv9j/2.png"
+    },
+    {
+      "categorie": "Champagne",
+      "img": "https://i.ibb.co/K98b4tq/3.png"
+    },
+    {
+      "categorie": "Aguardiente",
+      "img":
+          "https://i.ibb.co/7X0R5ZZ/4.png"
+    },
+    {
+      "categorie": "Cerveza",
+      "img":
+          "https://i.ibb.co/yQymqBf/5.png"
+    },
+    {
+      "categorie": "Vodka",
+      "img": "https://i.ibb.co/d4DxQ15/6.png"
+    },
+    {
+      "categorie": "Ron",
+      "img": "https://i.ibb.co/y5dvY6p/7.png"
+    },
+    {
+      "categorie": "Tequila",
+      "img": "https://i.ibb.co/nsmN8D6/8.png"
+    },
+    {
+      "categorie": "Cognac",
+      "img": "https://i.ibb.co/XXQ8GXy/9.png"
+    },
+    {
+      "categorie": "Mezcal",
+      "img": "https://i.ibb.co/Wnd2hsG/10.png"
+    },
+    {
+      "categorie": "Brandy",
+      "img": "https://i.ibb.co/0CsRFnm/11.png"
+    }
+  ]
+}
